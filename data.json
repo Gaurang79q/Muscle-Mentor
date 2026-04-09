@@ -1,0 +1,25 @@
+{
+  "userCount": 2,
+  "trainerCount": 0,
+  "users": [
+    {
+      "id": "bnucxrcn3",
+      "name": "ritvik",
+      "email": "6501@sanskritischool.edu.in",
+      "phone": "09811010106",
+      "password": "123ironcaptain",
+      "role": "client",
+      "interactions": []
+    },
+    {
+      "id": "admin_gaurang",
+      "name": "Admin Gaurang",
+      "email": "gaurangtewari24@gmail.com",
+      "phone": "0000000000",
+      "password": "Sultan123$",
+      "role": "client",
+      "interactions": []
+    }
+  ],
+  "trainers": []
+}
